@@ -37,6 +37,7 @@ If two lyrics are similar in meaning, they will be close to each other in vector
 ## 📂 Dataset
 - Source: Kaggle (Spotify / Lyrics Dataset)
 - Size: 50,000+ songs
+- DataSet Link:https://www.kaggle.com/datasets/joebeachcapital/57651-spotify-songs
 - Important columns used:
   - `song` → Song title  
   - `artist` → Artist name  
